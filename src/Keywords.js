@@ -1,3 +1,7 @@
+/*Keywords displayed as a tags
+Material UI chips is used to display the keyword functionality
+*/
+
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import Chip from "@material-ui/core/Chip";

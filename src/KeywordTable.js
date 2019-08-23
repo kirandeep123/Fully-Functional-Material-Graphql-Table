@@ -1,9 +1,13 @@
+/* Table to show categories and keywords linked with them */
+/*Table has searching and shorting functionalties along with adding and deleting
+categories and keywords 
+Used Material Ui Table to display the data 
+*/
 import React, { useState, useEffect } from 'react';
 import MaterialTable from "material-table";
 import Keywords from "./Keywords";
 import { graphql } from 'react-apollo';
 import * as compose from 'lodash.flowright';
-import gql from 'graphql-tag';
 import queries from './queries';
 
 function KeywordTable(props) {
