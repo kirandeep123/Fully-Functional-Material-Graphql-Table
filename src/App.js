@@ -9,7 +9,7 @@ export default function App() {
     <Container maxWidth="md">
       <Box my={4}>
         <Header content="SearchMetrics GMBH Coding Task" />
-        <Main />
+        <Main />      
       </Box>
     </Container>
   );

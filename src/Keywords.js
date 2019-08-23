@@ -9,6 +9,7 @@ const useStyles = makeStyles(theme => ({
     display: 'flex',
     justifyContent: 'center',
     flexWrap: 'wrap',
+    backgroundColor:'#D3D3D3',
     padding: theme.spacing(0.5),
   },
   chip: {
