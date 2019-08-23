@@ -1,13 +1,4 @@
-# Create React App example
-
-## How to use
-
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
-
-```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app
-cd create-react-app
-```
+SearchMetrics Gmbh Search and Manage Keywords
 
 Install it and run:
 
@@ -16,7 +7,9 @@ npm install
 npm start
 ```
 
-## The idea behind the example
+## The idea behind the App
 
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app).
-# Searchmetrics-GmbH
+1. Add Category
+2. Remove Category
+3. Add Keyword
+4. Remove Keyword
