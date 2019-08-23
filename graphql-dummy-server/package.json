@@ -10,6 +10,7 @@
   "author": "Kirandeep Kaur",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "json-graphql-server": "^2.1.3"
   }

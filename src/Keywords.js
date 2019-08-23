@@ -18,15 +18,16 @@ const useStyles = makeStyles(theme => ({
   }
 }));
 
-export default function ChipsArray() {
+export default function ChipsArray(props) {
   const classes = useStyles();
 
   return (
     <Paper className={classes.root}>
       <ChipInput
-        defaultValue={["clown fish", "whale", "shark"]}
+        defaultValue={props.data}
         fullWidth
         placeholder="Type and press enter to add Keywords"
+        onChange={props.onChange}
       />
     </Paper>
   );
