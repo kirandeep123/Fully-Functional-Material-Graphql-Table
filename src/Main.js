@@ -9,7 +9,7 @@ export default function Main() {
       { title: "KeyWords", field: "keywords" }
     ],
     data: [
-      { category: "CATEGORY 1 ", keywords: <Keywords /> },
+      { category: "CATEGORY 1", keywords: <Keywords /> },
       {
         category: "Zerya Betül",
         keywords: <Keywords />
