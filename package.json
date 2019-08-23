@@ -9,9 +9,11 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "@devexpress/dx-react-grid": "^2.0.3",
     "@material-ui/core": "latest",
     "@material-ui/icons": "^4.2.1",
     "clsx": "latest",
+    "json-graphql-server": "^2.1.3",
     "material-table": "^1.50.0",
     "react": "latest",
     "react-dom": "latest",
