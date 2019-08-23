@@ -1,5 +1,5 @@
 /*Keywords displayed as a tags
-Material UI chips is used to display the keyword functionality
+Material UI chips is used to display the keyword functionality 
 */
 
 import React from "react";

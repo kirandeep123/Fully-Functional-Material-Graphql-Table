@@ -1,7 +1,7 @@
 /* Table to show categories and keywords linked with them */
 /*Table has searching and shorting functionalties along with adding and deleting
 categories and keywords 
-Used Material Ui Table to display the data 
+Used Material Ui Table to display the data  
 */
 import React, { useState, useEffect } from 'react';
 import MaterialTable from "material-table";
