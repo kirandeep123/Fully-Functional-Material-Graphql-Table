@@ -9,7 +9,7 @@ import { InMemoryCache } from 'apollo-cache-inmemory';
 import App from './App';
 import theme from './theme';
 
-const httpLink = new HttpLink({ uri: 'http://localhost:4000/graphql' });
+const httpLink = new HttpLink({ uri: 'https://kkgraphql.herokuapp.com/graphql' });
 
 const client = new ApolloClient({
   link: httpLink,
